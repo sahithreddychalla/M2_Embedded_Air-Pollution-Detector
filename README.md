@@ -5,4 +5,4 @@
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/sahithreddychalla/M2_Embedded_Air-Pollution-Detector/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sahithreddychalla/M2_Embedded_Air-Pollution-Detector/actions/workflows/c-cpp.yml)
 
-
+[![Analysis](https://github.com/sahithreddychalla/M2_Embedded_Air-Pollution-Detector/actions/workflows/c-cp.yml/badge.svg)](https://github.com/sahithreddychalla/M2_Embedded_Air-Pollution-Detector/actions/workflows/c-cp.yml)
